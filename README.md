@@ -1,41 +1,20 @@
+# Olá, eu sou o Guilherme! 👋 🔬
 
+**Cientista criativo de código** especializado em **React Front-end**. Minha paixão é desenvolver **APIs robustas** usando **Java** e **Node.js/Express**, com expertise em **SQL e manipulação de bancos de dados**. Combino precisão técnica com soluções inovadoras. Atualmente explorando o mundo do **Ruby**.
 
-### 👋 Olá, eu sou Guilherme Rocha Pessanha!
-## 🚀 Sobre Mim
-#### Sou um estudante de Programação Full Stack apaixonado por tecnologia e desenvolvimento web. Atualmente, estou focado em aprimorar minhas habilidades e construir projetos que possam impactar positivamente a vida das pessoas.
+## 🛠️ Tecnologias & Habilidades
 
-## 🛠 Habilidades Técnicas
-### 💻 Linguagens e Tecnologias
- Java: Nível Básico (em constante evolução)
+- **Front-end:** React, JavaScript, HTML, CSS
+- **Back-end:** Java, Node.js, Express (APIs robustas)
+- **Banco de Dados:** SQL, Manipulação e otimização de dados
+- **Aprendendo:** Ruby
+- **Diferencial:** Abordagem científica + criatividade para resolver problemas complexos
 
- HTML/CSS: Nível Avançado (responsividade, layouts modernos, pré-processadores)
-
- JavaScript/TypeScript: Nível Avançado (ES6+, frameworks, manipulação do DOM)
-
- SQL: Nível Intermediário (consultas complexas, modelagem de bancos de dados)
-
-## 🌐 Stack Full Stack em Aprendizado
- Front-end: HTML5, CSS3, JavaScript, TypeScript
-
- Back-end: Java (futuramente explorando frameworks como Spring)
-
- Banco de Dados: MySQL, PostgreSQL
-
-## 📚 Atualmente Aprendendo
-Frameworks front-end (React, Angular)
-
-Node.js para back-end
-
-Boas práticas de código e arquitetura de software
-
-## 🔥 Objetivos
-Contribuir para projetos open source
-
-Desenvolver aplicações completas (front-end + back-end)
+## 🚀 Meu Approach
+- Desenvolvimento de APIs robustas e escaláveis
+- Expertise em SQL e manipulação eficiente de bancos de dados
+- Soluções criativas para desafios técnicos
+- Mentalidade científica para debugging e otimização
 
 ## 📫 Como me encontrar
-LinkedIn
-
-Portfólio (em construção)
-
-Email: guirpessanha@gmail.com
+ [guirpessanha@gmail.com]
