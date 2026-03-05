@@ -7,7 +7,7 @@
 - **Front-end:** React, Angular, JavaScript;TypeScript, HTML, CSS
 - **Back-end:** Java, Node.js, Express (APIs robustas)
 - **Banco de Dados:** SQL, Manipulação e otimização de dados
-- **Aprendendo:** Ruby, Angular
+- **Aprendendo:** Ruby
 - **Diferencial:** Abordagem científica + criatividade para resolver problemas complexos
 
 ## 🚀 Meu Approach
