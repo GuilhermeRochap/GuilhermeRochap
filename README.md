@@ -4,7 +4,7 @@
 
 ## 🛠️ Tecnologias & Habilidades
 
-- **Front-end:** React, Vue.js, JavaScript;TypeScript, HTML, CSS
+- **Front-end:** React, Angular, JavaScript;TypeScript, HTML, CSS
 - **Back-end:** Java, Node.js, Express (APIs robustas)
 - **Banco de Dados:** SQL, Manipulação e otimização de dados
 - **Aprendendo:** Ruby, Angular
