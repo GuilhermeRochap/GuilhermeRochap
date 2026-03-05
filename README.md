@@ -1,6 +1,6 @@
 # Olá, eu sou o Guilherme! 👋 🔬
 
-**Cientista criativo de código** especializado em **React Front-end**. Minha paixão é desenvolver **APIs robustas** usando **Java** e **Node.js/Express**, com expertise em **SQL e manipulação de bancos de dados**. Combino precisão técnica com soluções inovadoras. Atualmente explorando o mundo do **Ruby**.
+**Cientista criativo de código** especializado em **React Front-end**. Minha paixão é desenvolver **APIs robustas** usando **Java** e **Node.js/Express**, com expertise em **SQL e manipulação de bancos de dados**. Combino precisão técnica com soluções inovadoras. Atualmente explorando o mundo do **Ruby** mas com experiência em **Angular**.
 
 ## 🛠️ Tecnologias & Habilidades
 
